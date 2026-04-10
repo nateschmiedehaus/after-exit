@@ -6,7 +6,7 @@
   --line: rgba(22, 19, 16, 0.12);
   --gold: #b07a35;
   --gold-soft: #c69a5d;
-  --pine: #223128;
+  --pine: #19344f;
   --paper: rgba(255, 250, 245, 0.72);
   --white: #f7f2ea;
   --max: 1220px;
@@ -99,6 +99,12 @@ img {
   position: absolute;
   inset: 0;
   background: radial-gradient(circle at 78% 18%, rgba(198, 154, 93, 0.22), transparent 30%);
+}
+
+.hero-venture::before {
+  background:
+    linear-gradient(90deg, rgba(8, 11, 16, 0.9), rgba(8, 11, 16, 0.56) 46%, rgba(8, 11, 16, 0.22)),
+    url("https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1800&q=80") center center / cover no-repeat;
 }
 
 .hero-content,
@@ -254,6 +260,80 @@ p {
 .hero-facts p {
   margin-top: 0.4rem;
   color: rgba(247, 242, 234, 0.8);
+}
+
+.prototype-layout,
+.format-grid,
+.audience-proof-grid,
+.company-grid,
+.next-step-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.prototype-layout {
+  grid-template-columns: 1.05fr 0.95fr;
+  align-items: stretch;
+}
+
+.prototype-copy {
+  display: grid;
+  gap: 0.9rem;
+  padding-right: 1.2rem;
+}
+
+.prototype-list {
+  display: grid;
+  gap: 0.55rem;
+  margin-top: 0.5rem;
+}
+
+.prototype-list p {
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--line);
+}
+
+.prototype-sheet {
+  display: grid;
+  gap: 0.9rem;
+  align-content: start;
+  padding: 1.6rem;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(244, 236, 226, 0.9));
+  border: 1px solid rgba(22, 19, 16, 0.08);
+  box-shadow: 0 24px 80px rgba(22, 19, 16, 0.08);
+}
+
+.prototype-meta {
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.prototype-sheet strong {
+  font-family: var(--display);
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 400;
+  line-height: 0.95;
+}
+
+.prototype-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.4rem;
+}
+
+.prototype-stats span {
+  padding: 0.45rem 0.7rem;
+  border-radius: 999px;
+  background: rgba(25, 52, 79, 0.08);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .section {
@@ -480,6 +560,86 @@ p {
   font-family: var(--display);
   font-size: clamp(1.5rem, 3vw, 2.2rem);
   line-height: 1.18;
+}
+
+.format-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.format-panel,
+.company-panel,
+.next-step-panel {
+  display: grid;
+  gap: 0.7rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(247, 242, 234, 0.14);
+}
+
+.format-panel p:last-child,
+.company-panel p:last-child,
+.next-step-panel p:last-child {
+  color: rgba(247, 242, 234, 0.78);
+}
+
+.audience-proof-grid {
+  grid-template-columns: 1.05fr 0.95fr;
+  align-items: start;
+}
+
+.audience-column,
+.proof-column {
+  display: grid;
+  gap: 1rem;
+}
+
+.proof-column {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.company-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.company-panel {
+  padding-right: 1rem;
+}
+
+.company-list {
+  display: grid;
+  gap: 0.65rem;
+  margin-top: 0.2rem;
+}
+
+.company-list p {
+  padding-top: 0.6rem;
+  border-top: 1px solid rgba(247, 242, 234, 0.12);
+  color: rgba(247, 242, 234, 0.78);
+}
+
+.next-step-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.next-step-panel {
+  border-top-color: var(--line);
+}
+
+.next-step-panel p:last-child {
+  color: var(--soft);
+}
+
+.research-band {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 1.4rem;
+  margin-top: 1.8rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--line);
+}
+
+.research-band > div:first-child {
+  max-width: 46rem;
 }
 
 .toc-strip,
@@ -715,7 +875,11 @@ body.subpage .page-copy {
   .engine-grid,
   .proof-grid,
   .process-grid,
-  .image-triptych {
+  .image-triptych,
+  .format-grid,
+  .company-grid,
+  .next-step-grid,
+  .proof-column {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -740,8 +904,20 @@ body.subpage .page-copy {
   .package-grid,
   .engine-grid,
   .image-triptych,
-  .hero-facts {
+  .hero-facts,
+  .prototype-layout,
+  .audience-proof-grid,
+  .format-grid,
+  .company-grid,
+  .next-step-grid,
+  .proof-column,
+  .research-band {
     grid-template-columns: 1fr;
+  }
+
+  .research-band {
+    display: grid;
+    align-items: start;
   }
 }
 
