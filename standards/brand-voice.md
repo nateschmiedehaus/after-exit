@@ -22,7 +22,7 @@ The voice should feel:
 
 - magazine, not SaaS
 - poster-like first viewport
-- serif-forward hierarchy
+- Inter-led sans-serif hierarchy
 - warm paper palette with dark ink and one copper accent
 - restrained motion
 - no dashboard cards in marketing surfaces

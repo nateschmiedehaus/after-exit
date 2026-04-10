@@ -1,311 +1,284 @@
 # TAM, Pricing, and Sponsor Map
 
-## Framing
+## Purpose
 
-This business should not be sized like a mass-media business.
+This document answers four practical questions:
 
-It should be sized like a high-LTV, niche, affluent membership-and-media business where a relatively small audience can sustain:
+1. How big is the broader `next-chapter principal` audience?
+2. Which segments inside it matter most at launch?
+3. How much will they plausibly pay?
+4. Which sponsor categories fit the brand and the audience?
 
-- premium subscriptions
-- high-priced memberships
-- selective sponsors
-- intimate events
-- research and advisory products
+## Category Definition
 
-## Segment Definitions
+The audience is not the entire wealthy class.
 
-### Segment A: Post-exit founders
+It is the subset of founders, investors, successors, and owner-principals who are:
 
-People who have sold, recapitalized, or stepped back from a company and are now reallocating time, capital, and identity.
+- capital-bearing
+- in transition or active stewardship
+- identity-rich
+- looking for better decisions across business, family, health, travel, and legacy
 
-Why they matter:
+## TAM Framework
 
-- clearest emotional pain
-- strongest PEF adjacency
-- highest early credibility for the brand
+The right way to size this business is as a layered market, not a single giant number.
 
-### Segment B: Transition-stage founders
+### Layer 1: Affluent adults with discretionary spend
 
-People likely to exit, recap, or materially derisk within the next `1` to `5` years.
-
-Why they matter:
-
-- future pipeline into Segment A
-- still active enough to bring current operating relevance
-- likely buyers of planning, tax, wealth, and family-governance products
-
-### Segment C: Operator-investors
-
-Former or current operators who now allocate capital directly through angel investing, private equity, search, or concentrated public-market strategies.
-
-Why they matter:
-
-- natural bridge between founder and investor worlds
-- strong appetite for intelligence, rooms, and partner products
-- good fit for sponsor-backed sector packs and private briefings
-
-### Segment D: Successors and owner-family principals
-
-People inheriting or assuming leadership over family businesses, family capital, or family office structures.
-
-Why they matter:
-
-- strong overlap in governance, identity, legacy, health, and family-system topics
-- expands the category beyond startup-only culture
-- improves sponsor fit for education, estate, tax, and governance services
-
-## Market-Size Framing
-
-## Ring 1: Affluent base
-
-UBS said on `June 18, 2025` there are around `52 million` "Everyday Millionaires" globally with investable assets between `$1 million` and `$5 million`, and that the U.S. accounts for almost `40%` of global millionaires.
+UBS said on `June 18, 2025` that there are about `52 million` "Everyday Millionaires" globally with investable assets between `$1 million` and `$5 million`, and that the U.S. accounts for almost `40%` of global millionaires.
 
 Source: [UBS Global Wealth Report 2025](https://www.ubs.com/content/news/en/2025/06/18/gwr-2025/_jcr_content/root/contentarea/mainpar/gridcontrol/col_2/linklistnewlook_copy_454432721/actionbutton.0308854476.file/PS9jb250ZW50L2RhbS9hc3NldHMvbmV3cy8yMDI1LzA2LzE4LzIwMjUwNjE4LW1yLWd3cjIwMjUtZW4ucGRm/20250618-mr-gwr2025-en.pdf)
 
-Capgemini said on `June 4, 2025` that the U.S. reached `7.9 million` HNWIs.
+Capgemini said on `June 4, 2025` that the U.S. reached `7.9 million` HNWIs after adding `562,000` millionaires in 2024.
 
 Source: [Capgemini World Wealth Report 2025](https://www.capgemini.com/wp-content/uploads/2025/06/06_04_World-Wealth-Report-2025-Press-Release-1.pdf)
 
-Interpretation:
+This is too broad to be the customer base, but it proves the spending pool.
 
-The affluent base is large. The business only needs a tiny fraction of this broader population, but the size of the wealth-bearing pool matters because it supports the commercial ecosystem around the brand.
+### Layer 2: Entrepreneurial and owner-led wealth
 
-## Ring 2: Entrepreneur and transition pool
+UBS's `Global Entrepreneur Report 2025` says entrepreneurs increasingly want:
 
-UBS said on `March 11, 2026` that `32%` of entrepreneurs are considering a transition within five years, and `63%` of U.S. respondents are considering exit.
+- more travel, hobbies, and family time
+- broader investing activity
+- more direct investment in companies
+
+Source: [UBS Global Entrepreneur Report 2025](https://www.ubs.com/content/news/en/2025/02/06/global-entrepreneur-report-2025/_jcr_content/root/contentarea/mainpar/toplevelgrid/col_2/actionbutton_copy.0490431597.file/PS9jb250ZW50L2RhbS9hc3NldHMvbmV3cy8yMDI1LzAyLzA2LzA2LTAyLTIwMjUtbXItZ2xvYmFsLWVudHJlcHJlbmV1ci1yZXBvcnQtMjAyNS1lbi5wZGY%3D/06-02-2025-mr-global-entrepreneur-report-2025-en.pdf)
+
+UBS said on `March 11, 2026` that `32%` of entrepreneurs are considering a transition within five years.
 
 Source: [UBS Global Entrepreneur Report 2026](https://www.ubs.com/global/en/media/display-page-ndp/en-20260311-ubs-global-entrepreneur-report.html)
 
-Interpretation:
+This is the clearest evidence that the audience is replenishing.
 
-The audience is not static. New transition-stage principals keep entering the category.
+### Layer 3: Newly transitioning principals
 
-## Ring 3: New liquidity events
-
-NVCA/PitchBook says 2025 produced:
+PitchBook/NVCA says 2025 produced:
 
 - `62 IPOs`
 - `995 acquisitions`
-- `$232.1B` in combined exit value
 
-Source: [NVCA Venture Monitor, Q4 2025](https://nvca.org/pitchbook-nvca-venture-monitor/)
+Source: [NVCA Venture Monitor](https://nvca.org/pitchbook-nvca-venture-monitor/)
 
-Interpretation:
+Again, this is not the whole market. It is the annual intake valve.
 
-This is not the whole market, but it proves there is recurring replenishment of the exact life-stage wedge the brand wants to own.
+## Launch Segments
 
-## Practical TAM Logic
+Not all principals matter equally at launch.
 
-### Total addressable category
+### Segment A: Recently post-exit founders
 
-Global next-chapter principals:
+Why they matter:
 
-- affluent entrepreneurs
-- active and exited owners
-- operator-investors
-- family business successors
-- family office builders
+- strongest pain point
+- strongest emotional hook
+- strongest fit with PEF
 
-### Serviceable available market
+Best products:
 
-U.S.- and Europe-weighted next-chapter principals concentrated in a small number of cities and wealth corridors:
+- flagship issue stories
+- private dinners
+- charter membership
+- family office and second-act programming
 
-- New York
-- Miami / Palm Beach
-- Austin
-- Los Angeles
-- San Francisco
-- London
-- Zurich / Geneva
-- Dubai
-- Singapore
+### Segment B: Near-exit founders and owner-operators
 
-### Serviceable obtainable market at launch
+Why they matter:
 
-The first real market is much smaller:
+- aspirational toward the category
+- still active commercially
+- useful to partners
 
-- PEF-adjacent post-exit founders
-- founder-investors and near-exit operators in a handful of cities
-- a curated invite pool for salons and membership
+Best products:
 
-That is enough. The company does not need mass reach.
+- transition playbooks
+- succession and liquidity content
+- sponsor-backed private briefings
 
-## Willingness-To-Pay Anchors
+### Segment C: Operator-investors and angel principals
 
-### Media
+Why they matter:
 
-- `The Information`: `$399/year` standard, `$749/year` Pro
-- `Puck`: `$100/year` member tier, `$250/year` Inner Circle
-- `Every`: `$288/year`
+- natural audience for capital-allocation and deal-flow coverage
+- likely to host, sponsor, and refer
+
+Best products:
+
+- allocation letters
+- deal salons
+- private-market partner products
+
+### Segment D: Family business successors and family office builders
+
+Why they matter:
+
+- under-served by startup media
+- high willingness to pay for governance, legacy, and next-gen content
+- strong sponsor adjacency
+
+Best products:
+
+- family constitution programming
+- heirs and governance issue packages
+- invite-only circles
+
+## Pricing Anchors
+
+### Media anchors
+
+- `The Information`: `$399/year` annual, `$749/year` Pro
+  Source: [The Information pricing](https://theinformation.zendesk.com/hc/en-us/articles/218741157-Individual-Subscriptions)
+
+- `Every`: `$288/year` bundle with products, community, events, and software-like benefits
+  Sources:
+  - [Every FAQ](https://every.to/faq)
+  - [Paid subscription](https://help.every.to/en/articles/13199137-what-s-included-in-a-paid-every-subscription)
+
 - `Air Mail`: `$79.99/year`
+  Source: [Air Mail subscribe](https://airmail.news/subscribe-options)
 
-Sources:
+- `Puck`: paid tier plus `Inner Circle`
+  Sources:
+  - [Puck billing](https://puck.news/my-account/billing)
+  - [Puck Inner Circle](https://puck.news/inner-circle/)
 
-- [The Information pricing](https://theinformation.zendesk.com/hc/en-us/articles/218741157-Individual-Subscriptions)
-- [Puck billing](https://puck.news/my-account/billing)
-- [Puck Inner Circle](https://puck.news/inner-circle/)
-- [Every paid subscription](https://help.every.to/en/articles/13199137-what-s-included-in-a-paid-every-subscription)
-- [Air Mail subscription](https://airmail.news/subscribe)
+### Community anchors
 
-### Communities
+- `TIGER 21`: `$34,000/year` North America dues, `$51,500/year` Family Office Groups
+  Sources:
+  - [TIGER 21 about](https://tiger21.com/about-us/)
+  - [TIGER 21 pricing PDF](https://tiger21.com/wp-content/uploads/2025/11/2026-Membership-Pricing_Nov25.pdf)
 
-- `TIGER 21`: `$34,000/year` North America dues, `$51,500/year` family office groups
-
-Sources:
-
-- [TIGER 21 about](https://tiger21.com/about-us/)
-- [TIGER 21 pricing PDF](https://tiger21.com/wp-content/uploads/2025/11/2026-Membership-Pricing_Nov25.pdf)
-
-### Why this matters
-
-The category already pays for:
-
-- indispensable information
-- curation
-- confidentiality
-- rooms
-- identity
-- social filtering
-
-That makes the price ladder here plausible if the product quality is high enough.
+- `Semafor CEO Signal`: invitation-only, multimedia executive product
+  Sources:
+  - [CEO Signal launch](https://www.semafor.com/article/12/18/2024/semafor-launches-the-ceo-signal)
+  - [CEO Signal show expansion](https://www.semafor.com/article/03/19/2026/semafor-launches-the-ceo-signal-show-with-penny-pritzker-and-andrew-edgecliffe-johnson)
 
 ## Recommended Price Architecture
 
-### Free
+### Tier 1: Reader
 
-`Weekly Letter`
+`$240` to `$600/year`
 
-- flagship essay excerpt
-- curated links
-- event announcements
-- no community access
+What it includes:
 
-Purpose:
+- all digital issues
+- flagship essays and archives
+- audio/video access
+- event priority and waitlist access
 
-- awareness
-- habit formation
-- sponsor proof
+Logic:
 
-### Reader
+Needs to feel premium but still wide enough to seed the top of the funnel.
 
-`$300` to `$600/year`
+### Tier 2: Circle
 
-- full digital archive
-- issue packages
-- selected private notes
-- priority access to public events
+`$2,500` to `$7,500/year`
 
-This competes with premium media, not with executive communities.
+What it includes:
 
-### Circle
-
-`$3,000` to `$7,500/year`
-
-- city salon access
+- salon access
+- private briefings
 - member directory
 - curated introductions
-- private notes and roundtables
-- small-group programming
+- issue drops and member notes
 
-This is the first true community layer.
+Logic:
 
-### Patron
+This is the first real economic engine, because the audience is paying for rooms and filtering.
 
-`$12,000` to `$25,000/year`
+### Tier 3: Patron / Council
+
+`$12,000` to `$25,000+/year`
+
+What it includes:
 
 - retreat access
+- small-circle access
 - host privileges
-- private briefings
-- concierge-style routing to partner services
-- deeper family-office and governance programming
+- family office and governance programming
+- premium partner routing
 
-This is closer to a selective membership product than a publication.
+Logic:
 
-### Founding Partner
+This is for the smaller group that wants the full social and intellectual infrastructure.
 
-`$50,000` to `$150,000+ / year`
+### Founding partners
 
-- category exclusivity
-- salon rights
-- partner intelligence products
-- content studio packages
-- annual issue integration
+`$40,000` to `$150,000+`
 
-## Sponsor Map
+Packages can include:
 
-### Tier 1: Natural fit
+- issue alignment
+- event category rights
+- member briefings
+- research products
+- editorial studio work
+
+## Sponsor Category Map
+
+### Tier A: Immediate fit
 
 - private banks
-- wealth platforms
-- estate and tax planning firms
+- wealth advisors
+- estate and tax planners
 - family governance advisors
-- longevity clinics and diagnostics
-- premium travel and hospitality groups
+- private-market platforms
 
 Why:
 
-They already sell into the same principal class and benefit from high-trust environments.
+Directly relevant to liquidity, stewardship, transfer, and investing.
 
-### Tier 2: Strong but selective
+### Tier B: Strong fit
 
+- longevity clinics
+- diagnostics and performance medicine
+- luxury travel advisors
+- hospitality groups
 - executive education
-- private aviation and mobility services
-- residential design and relocation
-- security and household infrastructure
-- premium B2B platforms used by operators and investors
 
 Why:
 
-Useful, high-ticket, and identity-aligned if curated tightly.
+These map directly to the audience's actual spending and life-design priorities.
 
-### Tier 3: Later-stage optional
+Knight Frank's `Wealth Report 2025` highlights wellness, travel, family experiences, and education among important UHNW spending priorities.
 
-- art and collecting
-- automotive
-- watches
-- luxury consumer categories
+Source: [Knight Frank Wealth Report 2025](https://content.knightfrank.com/resources/knightfrank.com/wealthreport/the-wealth-report-2025.pdf)
+
+### Tier C: Later fit
+
+- residential and relocation services
+- home design and managed living services
+- premium software for investors and family offices
+- philanthropy and impact-advisory services
 
 Why:
 
-Potentially lucrative, but easy to make the brand feel tacky if introduced too early.
-
-### Avoid
-
-- mass-market fintech
-- undifferentiated venture tooling
-- low-trust wellness supplements
-- crypto hype products
-- lead-gen advertisers disguised as thought leadership
+These require more brand maturity and trust before they feel native.
 
 ## Risks and Assumptions
 
 ### Risks
 
-1. `Category drift`
-   If the audience gets too broad, the product loses precision.
-
-2. `Sponsor contamination`
-   The best sponsor categories are also the easiest place to lose trust.
-
-3. `Overpricing too early`
-   High community pricing only works if the rooms are genuinely valuable.
-
-4. `Under-building the investor/successor relevance`
-   If the brand keeps sounding founder-only, the broader category will not convert.
+- The audience may be too small if distribution stays founder-only and PEF-adjacent only.
+- Sponsor interest may outrun editorial discipline.
+- Premium pricing fails if the rooms are weak.
+- A broad category without a sharp entry hook could blur the brand.
 
 ### Assumptions
 
-1. PEF provides a meaningful launch wedge.
-2. The audience cares more about curation and privacy than volume.
-3. A small but very qualified membership base can support the business.
-4. Editorial quality is high enough to justify premium pricing.
+- PEF provides early trust and audience access.
+- The brand stays selective enough to feel scarce.
+- The product is not only articles; it includes rooms, films, notes, and introductions.
 
 ## Recommendation
 
-The right way to size this is:
+At launch, optimize for:
 
-- broad wealth-bearing macro pool
-- narrower transition-stage entrepreneur and owner-principal pool
-- very narrow launch wedge of PEF-adjacent and city-clustered next-chapter principals
+1. recently post-exit founders as the emotional entry point
+2. next-chapter principals as the actual category
+3. Reader plus Circle as the first two paid layers
+4. 4 to 8 premium sponsor categories, sold directly
 
-That makes the business legible without pretending it needs mass consumer scale.
+That gives the business enough precision to launch and enough breadth to grow.
