@@ -8,6 +8,7 @@ This is not intended to be a generic startup publication. The thesis is narrower
 
 - `site/` visual landing pages
 - `docs/` market analysis, business case, and roadmap
+  Includes category architecture, TAM, pricing, sponsor map, and the operating system.
 - `commercial/` revenue, supply chain, and extension ideas
 - `governance/` partnership and community architecture
 - `operations/` publishing stack and operating loops

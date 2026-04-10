@@ -11,8 +11,8 @@
   --white: #f7f2ea;
   --max: 1220px;
   --content: 760px;
-  --display: "Bodoni Moda", Georgia, serif;
-  --sans: "Manrope", "Helvetica Neue", Arial, sans-serif;
+  --display: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --sans: "Inter", "Helvetica Neue", Arial, sans-serif;
 }
 
 *,
@@ -127,24 +127,24 @@ h2,
 h3 {
   margin: 0;
   font-family: var(--display);
-  font-weight: 600;
-  letter-spacing: -0.03em;
+  font-weight: 700;
+  letter-spacing: -0.05em;
 }
 
 h1 {
   max-width: 10ch;
   font-size: clamp(3.4rem, 9vw, 6.8rem);
-  line-height: 0.96;
+  line-height: 0.92;
 }
 
 h2 {
   font-size: clamp(2rem, 4vw, 3.2rem);
-  line-height: 1;
+  line-height: 0.96;
 }
 
 h3 {
   font-size: 1.45rem;
-  line-height: 1.08;
+  line-height: 1.02;
 }
 
 p {
