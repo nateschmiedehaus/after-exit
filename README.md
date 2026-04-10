@@ -1,8 +1,8 @@
 # After Exit
 
-`After Exit` is a new standalone project built from the `sweet-honey-farm` repo as a template. The concept is a premium magazine and founder platform created in close partnership with PEF (Post Exit Founders), aimed at entrepreneurs navigating life after liquidity.
+`After Exit` is a new standalone project built from the `sweet-honey-farm` repo as a template. The concept is a premium magazine and platform created in close partnership with PEF (Post Exit Founders), aimed at founders, investors, successors, and owner-principals navigating what comes after the first win.
 
-This is not intended to be a generic startup publication. The thesis is narrower and more valuable: post-exit founders need a media brand that covers business, wealth, health, family, travel, status, spirituality, and meaning with both editorial taste and operating depth.
+This is not intended to be a generic startup publication. The thesis is narrower and more valuable: next-chapter principals need a media brand that covers business, investing, wealth, health, family, travel, status, spirituality, and meaning with both editorial taste and operating depth.
 
 ## Repo Structure
 
@@ -17,7 +17,7 @@ This is not intended to be a generic startup publication. The thesis is narrower
 ## Provisional Brand
 
 - Public name: `After Exit`
-- Tagline: `The magazine for founders designing life after exit`
+- Tagline: `For founders, investors, successors, and owner-principals designing what comes after the first win`
 - Positioning: premium editorial plus community, events, and selective partner products
 
 ## Current Focus

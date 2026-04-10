@@ -8,7 +8,7 @@ The opportunity is attractive because the audience is:
 
 - economically dense
 - identity-rich
-- under-served by current founder media
+- under-served by current founder and investor media
 - useful to premium partners
 - likely to pay for curation, access, and privacy
 
@@ -44,14 +44,14 @@ UBS's `Global Entrepreneur Report 2025` surveyed entrepreneur clients whose busi
 
 Source: [UBS Global Entrepreneur Report 2025](https://www.ubs.com/content/news/en/2025/02/06/global-entrepreneur-report-2025/_jcr_content/root/contentarea/mainpar/toplevelgrid/col_2/actionbutton_copy.0490431597.file/PS9jb250ZW50L2RhbS9hc3NldHMvbmV3cy8yMDI1LzAyLzA2LzA2LTAyLTIwMjUtbXItZ2xvYmFsLWVudHJlcHJlbmV1ci1yZXBvcnQtMjAyNS1lbi5wZGY%3D/06-02-2025-mr-global-entrepreneur-report-2025-en.pdf)
 
-### Ring 3: Newly post-liquidity founders
+### Ring 3: Newly post-liquidity founders and transition-stage principals
 
 The NVCA/PitchBook `Q4 2025 Venture Monitor` says 2025 produced:
 
 - `62 IPOs` generating `$119.4B` in exit value
 - `995 acquisitions` generating `$112.7B` in exit value
 
-This is not the whole founder market, but it is enough to show there is a recurring supply of new post-exit operators entering the target category.
+This is not the whole target market, but it is enough to show there is a recurring supply of new transition-stage operators entering the target category.
 
 Source: [NVCA Venture Monitor, Q4 2025 overview](https://nvca.org/pitchbook-nvca-venture-monitor/)
 
@@ -102,9 +102,9 @@ For top-tier access: retreats, host privileges, private briefings, premium partn
 
 This concept is differentiated against other magazines on at least five fronts.
 
-### 1. Post-exit founder lens
+### 1. Next-chapter principal lens
 
-Most business magazines focus on builders before exit or operators still in the grind. This publication starts where those publications stop.
+Most business magazines focus on builders before exit or operators still in the grind. This publication starts where those publications stop and follows the move into investing, stewardship, family leadership, and second-act design.
 
 ### 2. Full-life coverage with credible business depth
 
