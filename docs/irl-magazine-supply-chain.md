@@ -350,6 +350,55 @@ Package can include:
 - event alignment
 - controlled circulation to target venues or target people
 
+### Ad load guidance
+
+Recommendation:
+
+Treat the print object as a `low-ad-load environment`.
+
+Inference:
+
+For a premium niche title like `After Exit`, the issue should feel editorially dominant and commercially selective. In practice that means:
+
+- keep total ad load visibly below mainstream consumer-magazine clutter
+- reserve only a small number of premium positions
+- make scarcity part of the rate logic
+- avoid running so many ads that the issue stops feeling collectible
+
+The point is not just aesthetics. It is commercial positioning.
+
+Low-ad-load magazines can justify higher rates because advertisers are buying:
+
+- a quieter environment
+- stronger adjacency
+- higher perceived prestige
+- more memorable placement
+- less competition from other brands in the same issue
+
+MPA argues that magazine media benefits from high consumer trust, strong engagement, and the tactile value of print, all of which support premium advertiser context.
+
+Source:
+
+- [MPA Magazine Media Factbook release](https://magazine.org/mpa-the-association-of-magazine-media-releases-its-2021-mpa-magazine-media-factbook/)
+
+### Suggested launch ad-load rule
+
+Inference:
+
+- target `10%` to `15%` of total pages as paid advertising at launch
+- treat `20%` as a ceiling, not a target
+- protect the front of book, major photo essays, and closing sequences from clutter
+
+This should be presented as a brand rule, not just a production choice.
+
+### What advertisers are really buying in a low-ad-load issue
+
+- category exclusivity or limited adjacency
+- fewer competing messages
+- stronger recall because the issue is not crowded
+- association with a collectible object
+- a premium environment that signals quality before the ad is even seen
+
 ### 2. Venue or venue-network package
 
 Example:
@@ -385,6 +434,73 @@ Combine:
 - targeted follow-up copies
 
 This is stronger than an isolated ad page.
+
+### 5. Bespoke editorial-adjacent package
+
+For the right partner only.
+
+Examples:
+
+- a labeled sponsor-backed research dossier
+- a city-guide alignment
+- a family-governance or longevity briefing package
+- a printed insert or discrete supplement with tight design control
+
+Rule:
+
+These should feel like custom publishing inside a premium media environment, not like advertorial sludge.
+
+## Commercial Packaging Rules
+
+### 1. Sell scarcity, not volume
+
+The pitch should be:
+
+- fewer copies
+- better hands
+- fewer ad pages
+- better adjacency
+- more integration across print, rooms, and follow-up
+
+### 2. Package print with distribution intelligence
+
+Advertisers should be told not only that their ad ran, but:
+
+- how many copies went to paid subscribers
+- how many went to members
+- how many reached verified public-place venues
+- which cities and venue types were hit
+- which events were tied to that issue
+
+This is where AAM-style verified categories become commercially useful.
+
+### 3. Package print with rooms
+
+For this brand, a print ad page by itself is rarely the most valuable product.
+
+Better package shapes:
+
+- issue + salon
+- issue + target-account distribution
+- issue + private briefing
+- issue + retreat or dinner placement
+
+### 4. Protect adjacency
+
+Avoid placing direct competitors too close together.
+
+The quieter and more selective the issue feels, the more rate integrity you can maintain.
+
+### 5. Protect the editorial spine
+
+Never let sponsor load collapse the central magazine argument:
+
+- strong reporting
+- strong imagery
+- restrained commercial presence
+- clear labeling
+
+If the issue looks over-monetized, both readers and advertisers lose.
 
 ## Metrics That Matter
 
