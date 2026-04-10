@@ -11,7 +11,7 @@
   --white: #f7f2ea;
   --max: 1220px;
   --content: 760px;
-  --display: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --display: "Instrument Serif", Georgia, "Times New Roman", serif;
   --sans: "Inter", "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -136,8 +136,8 @@ h2,
 h3 {
   margin: 0;
   font-family: var(--display);
-  font-weight: 700;
-  letter-spacing: -0.05em;
+  font-weight: 400;
+  letter-spacing: -0.03em;
 }
 
 h1 {
@@ -233,6 +233,12 @@ p {
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: rgba(247, 242, 234, 0.66);
+}
+
+.issue-rail strong,
+.quote-band p {
+  font-family: var(--display);
+  font-weight: 400;
 }
 
 .hero-facts {
